@@ -8,3 +8,7 @@ To initiate the activity, teachers/volunteers will set up “penguins colonies�
 Then, students will use a clicker to count the number of penguins they see in each colony. They will repeat the counts 3 times for each colony, then select the best estimate of the total number of penguins for each colony. The students will then add up the best estimate from each colony to find the total number of penguins they’ve estimated to be in the population! 
 
 Students will count each colony three times, rather than just once, for a few important reasons. A major goal of scientific research is to be accurate and reproducible. The students count each colony three times to make sure they are counting as accurately as possible, accounting for any possible errors they’ve made or penguins they didn’t see the first time around.  
+
+In "Instructions", there is a powerpoint file with the detailed protocol for students to follow. There is also an image of the penguin colonies we set up for this activity. 
+In "Materials", there are files to use for the students to record their estimates. 
+In "Presentation", there is a powerpoint file with context and the importance of surveying penguins. 
